@@ -37,7 +37,7 @@ GMS_PRODUCT_PACKAGES += \
     GoogleTTS \
     GmsCoreGo \
     Phonesky \
-    SetupWizard \
+    SetupWizardGo \
     WebViewGoogle \
     Wellbeing
 
